@@ -12,14 +12,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/NSS-Cohort-9/firebase-auth-demo.git"
+    "url": "git+https://github.com/ChelseaBurns/firebase-auth-demo.git"
   },
-  "author": "Scott Humphries <scott@sscotth.io>",
+  "author": "Chelsea Burns <co.designux@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/NSS-Cohort-9/firebase-auth-demo/issues"
+    "url": "https://github.com/ChelseaBurns/firebase-auth-demo/issues"
   },
-  "homepage": "https://github.com/NSS-Cohort-9/firebase-auth-demo#readme",
+  "homepage": "https://github.com/ChelseaBurns/firebase-auth-demo#readme",
   "devDependencies": {
     "babel": "^5.4.3",
     "bowcat": "0.0.4",
